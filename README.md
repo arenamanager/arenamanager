@@ -8,6 +8,14 @@ ArenaManager was launched on 12th of Feburary, 2024 and was created with a reaso
 
 ArenaManager is highly configurable and it is not only meant for esports servers but you may use it for other purpose too as it has a lot of utility and moderation commands.
 
+**links of ArenaManager**
+Discord: https://discord.gg/Q52p7cuBHY
+
+Youtube: https://www.youtube.com/channel/UCWz4lgAYdd2SIPNqWd45GAg
+
+X: https://twitter.com/arenamanagerX
+
+Business Mail: arenamanager.official@gmail.com
 
 
 <!--
