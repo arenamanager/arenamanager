@@ -1,6 +1,5 @@
 
 ## ArenaManager is a highly Advanced Esports Manager Bot.
-<picture>
 
 Everyone it's me felix_47 the developer of ArenaManager, Describing you about ArenaManager.
 
