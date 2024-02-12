@@ -1,6 +1,7 @@
 ## Hi! 👋 
 
 Everyone it's me felix_47 the developer of ArenaManager, Describing you about ArenaManager.
+
 **About ArenaManager**
 
 ArenaManager was launched on 12th of Feburary, 2024 and was created with a reason to help servers related to esports. We developers have also worked in some esports servers and it was pretty boring and time consuming to take registrations, provide id pass role, create slotlist, etc for scrims, make idp channels for tournaments, divide groups, give group roles to players or other such events. We were tired doing all this, so our team worked hard to bring one of the best auto tournament manager - @ArenaManager#4691.
