@@ -1,57 +1,39 @@
+# ArenaManager - Your All-in-One Discord Bot for Esports Excellence
 
-## ArenaManager is a Highly Advanced Esports Manager Bot.
+ArenaManager is not just a bot, it's the pinnacle of esports management on Discord. Crafted for gaming communities, ArenaManager simplifies scrims, orchestrates tournaments, and enriches your server with a plethora of features. 
 
-ArenaManager was launched on 12th of Feburary, 2024 and was created with a reason to help servers related to esports. We developers have also worked in some esports servers and it was pretty boring and time consuming to take registrations, provide id pass role, create slotlist, etc for scrims, make idp channels for tournaments, divide groups, give group roles to players or other such events. We were tired doing all this, so our team worked hard to bring one of the best auto tournament manager - @ArenaManager#4691.
+![Language](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![discord.js Version](https://img.shields.io/badge/lib-discord.js_v14-blue)
+![Db](https://img.shields.io/badge/db-MongoDB-blue)
 
-ArenaManager is highly configurable and it is not only meant for esports servers but you may use it for other purpose too as it has a lot of utility and moderation commands.
-## Features
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1159504274938675312/1206586330168168528/arena-manager-main.png?ex=65dc8c16&is=65ca1716&hm=22e0f6c7fb48982af99dbeb6bb20d62bf0d5a18b3d09f5de4f99c751f12ce437&" alt="Logo" width="25%">
+</div>
 
-ArenaManager is a multi-purpose server managing bot that helps in server, scrims and tournament management.
-```
-- Scrims Management
-- Server Management
-- Role Management
-- Moderation & Misc
-```
+## Unleash the Esports Beast
+ArenaManager delivers a wide array of features, including:
 
-## [Add to your server]() 
+- **Seamless Scrims Management**
+- **Tournament Wizardry**
+- **User-Friendly Web-Dashboard**
+- **Engaging Community Tools**
+- *... and a treasure trove of possibilities.*
 
-To Add ArenaManager to your server you have to click the link and add to your server: [Add ArenaManager to your server]().
+## Installation Odyssey
+Embark on the esports journey by adding ArenaManager to your Discord server: [Add ArenaManager to your server](https://discord.com/api/oauth2/authorize?client_id=1184449900541378641&permissions=8&scope=bot). 
 
-## [How to join ArenaManager Team ?](https://discord.gg/Q52p7cuBHY)
+## ArenaManager Contributions
 
-For Joining or Contributing ArenaManager you can join our support server and contact to the owners [Support Server](https://discord.gg/Q52p7cuBHY)
+Be a part of the esports legacy! Feel free to open an issue for discussion before making contributions. Dive into the esports arena in our [Support Server](https://discord.gg/Q52p7cuBHY) for discussions and assistance.
 
-## [How to Contact Team ?](https://discord.gg/Q52p7cuBHY)
+## ArenaManager Contact
+For esports inquiries, feedback, or support, reach out via our [Support Server](https://discord.gg/Q52p7cuBHY) or create an issue on this repository. Thank you for choosing ArenaManager!
 
-For contacting ArenaManager Team you can join our support server and contact to the owners [Support Server](https://discord.gg/Q52p7cuBHY)
+---
 
-##Contributors 👥
+### ArenaManager Architects 🎮
+<a href="https://github.com/arenamanagerofficial/arenamanager/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=arenamanagerofficial/arenamanager" />
+</a>
 
-[felix_47](), [rupandhungana](), [savage](), [Saphal](), [kishan10]()
-
-## Links of ArenaManager
-
-Discord: https://discord.gg/Q52p7cuBHY
-
-Youtube: https://www.youtube.com/channel/UCWz4lgAYdd2SIPNqWd45GAg
-
-X: https://twitter.com/arenamanagerX
-
-Business Mail: arenamanager.official@gmail.com
-
-
-<!--
-**arenamanager/arenamanager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
